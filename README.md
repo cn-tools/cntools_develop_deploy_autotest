@@ -1,4 +1,20 @@
 # cntools_test_travis
-it is only a test repo to learn travis-ci
 
+it is a test repo to test, learn, check something only
+
+* [travis-ci](https://travis-ci.org)
+* [scrutinizer-ci](https://scrutinizer-ci.com)
+* [lgtm.com](https://lgtm.com)
+* [shields.io](https://shields.io)
+
+## some icons
+
+[![Author](http://img.shields.io/badge/author-@cntools-blue.svg?style=flat-square)](https://github.com/cn-tools)
+[![GitHub release](https://img.shields.io/github/release/cn-tools/cntools_test_travis.svg?maxAge=2592000&style=flat-square)](https://packagist.org/packages/php-console/php-console)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/cn-tools/cntools_test_travis.svg?style=flat-square)](https://scrutinizer-ci.com/g/cn-tools/cntools_test_travis/code-structure)
+[![Build Status](https://img.shields.io/travis/cn-tools/cntools_test_travis/master.svg?style=flat-square)](https://travis-ci.org/barbushin/php-console)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build Status](https://travis-ci.org/cn-tools/cntools_test_travis.svg?branch=master)](https://travis-ci.org/cn-tools/cntools_test_travis)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/cn-tools/cntools_test_travis.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cn-tools/cntools_test_travis/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/cn-tools/cntools_test_travis.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cn-tools/cntools_test_travis/context:javascript)
+

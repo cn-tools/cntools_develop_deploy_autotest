@@ -33,7 +33,7 @@ $(document).ready(function(){
     var obsConfig           = {childList: true, characterData: true, attributes: true, subtree: true};
 
     if (targetObj){
-        CntObserver.observe(targetObj, obsConfig);
+        Observer.observe(targetObj, obsConfig);
     }
 
     function MutationHandler(mutationRecords) {
