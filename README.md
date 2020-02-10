@@ -8,7 +8,7 @@ it is a test repo to test, learn, check something only
 * [packagist.org](https://packagist.org)
 * [shields.io](https://shields.io)
 * [houndci.com](https://houndci.com)
-* [https://danger.systems](https://danger.systems)
+* [danger.systems](https://danger.systems)
 
 ## shields.io icons
 
