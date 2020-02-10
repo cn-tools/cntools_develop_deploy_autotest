@@ -10,6 +10,7 @@ it is a test repo to test, learn, check something only
 * [houndci.com](https://houndci.com)
 * [danger.systems](https://danger.systems)
 * [appveyor.com](https://www.appveyor.com)
+* [circleci.com](https://circleci.com)
 
 ## shields.io icons
 
