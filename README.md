@@ -2,11 +2,12 @@
 
 it is a test repo to test, learn, check something only
 
-* [travis-ci](https://travis-ci.org)
-* [scrutinizer-ci](https://scrutinizer-ci.com)
+* [travis-ci.org](https://travis-ci.org)
+* [scrutinizer-ci.com](https://scrutinizer-ci.com)
 * [lgtm.com](https://lgtm.com)
 * [packagist.org](https://packagist.org)
 * [shields.io](https://shields.io)
+* [houndci.com](https://houndci.com)
 
 ## shields.io icons
 
@@ -25,9 +26,13 @@ it is a test repo to test, learn, check something only
 
 #### travis
 
+https://www.sitepoint.com/php-continuous-integration-travis-ci/
+
 [![Build Status](https://img.shields.io/travis/cn-tools/cntools_test_travis/master.svg?style=flat-square)](https://travis-ci.org/cn-tools/cntools_test_travis)
 
 #### scrutinizer-ci
+
+https://www.sitepoint.com/inspecting-php-code-quality-scrutinizer/
 
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/cn-tools/cntools_test_travis.svg?style=flat-square)](https://scrutinizer-ci.com/g/cn-tools/cntools_test_travis/code-structure)
 
