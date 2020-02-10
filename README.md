@@ -1,4 +1,4 @@
-# cntools_test_travis
+# cntools_develop_deploy_autotest
 
 it is a test repo to test, learn, check something only
 
@@ -19,31 +19,31 @@ it is a test repo to test, learn, check something only
 
 #### github
 
-[![GitHub release](https://img.shields.io/github/release/cn-tools/cntools_test_travis.svg?maxAge=2592000&style=flat-square)](https://github.com/cn-tools/cntools_test_travis/releases)
-![GitHub Release Date](https://img.shields.io/github/release-date/cn-tools/cntools_test_travis)
+[![GitHub release](https://img.shields.io/github/release/cn-tools/cntools_develop_deploy_autotest.svg?maxAge=2592000&style=flat-square)](https://github.com/cn-tools/cntools_develop_deploy_autotest/releases)
+![GitHub Release Date](https://img.shields.io/github/release-date/cn-tools/cntools_develop_deploy_autotest)
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/release/cn-tools/cntools_test_travis.svg?include_prereleases&maxAge=2592000&style=flat-square)](https://github.com/cn-tools/cntools_test_travis/releases)
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/cn-tools/cntools_test_travis)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/release/cn-tools/cntools_develop_deploy_autotest.svg?include_prereleases&maxAge=2592000&style=flat-square)](https://github.com/cn-tools/cntools_develop_deploy_autotest/releases)
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/cn-tools/cntools_develop_deploy_autotest)
 
-![GitHub language count](https://img.shields.io/github/languages/count/cn-tools/cntools_test_travis)
+![GitHub language count](https://img.shields.io/github/languages/count/cn-tools/cntools_develop_deploy_autotest)
 
 #### travis
 
 https://www.sitepoint.com/php-continuous-integration-travis-ci/
 
-[![Build Status](https://img.shields.io/travis/cn-tools/cntools_test_travis/master.svg?style=flat-square)](https://travis-ci.org/cn-tools/cntools_test_travis)
+[![Build Status](https://img.shields.io/travis/cn-tools/cntools_develop_deploy_autotest/master.svg?style=flat-square)](https://travis-ci.org/cn-tools/cntools_develop_deploy_autotest)
 
 #### scrutinizer-ci
 
 https://www.sitepoint.com/inspecting-php-code-quality-scrutinizer/
 
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/cn-tools/cntools_test_travis.svg?style=flat-square)](https://scrutinizer-ci.com/g/cn-tools/cntools_test_travis/code-structure)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/cn-tools/cntools_develop_deploy_autotest.svg?style=flat-square)](https://scrutinizer-ci.com/g/cn-tools/cntools_develop_deploy_autotest/code-structure)
 
 #### lgtm
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/cn-tools/cntools_test_travis.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cn-tools/cntools_test_travis/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/cn-tools/cntools_test_travis.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cn-tools/cntools_test_travis/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/cn-tools/cntools_develop_deploy_autotest.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cn-tools/cntools_develop_deploy_autotest/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/cn-tools/cntools_develop_deploy_autotest.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cn-tools/cntools_develop_deploy_autotest/context:javascript)
 
 ## travis icons
 
-[![Build Status](https://travis-ci.org/cn-tools/cntools_test_travis.svg?branch=master)](https://travis-ci.org/cn-tools/cntools_test_travis)
+[![Build Status](https://travis-ci.org/cn-tools/cntools_develop_deploy_autotest.svg?branch=master)](https://travis-ci.org/cn-tools/cntools_develop_deploy_autotest)
