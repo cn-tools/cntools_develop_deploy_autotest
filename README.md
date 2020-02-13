@@ -11,6 +11,7 @@ it is a test repo to test, learn, check something only
 * [danger.systems](https://danger.systems)
 * [appveyor.com](https://www.appveyor.com)
 * [circleci.com](https://circleci.com)
+* [jshint.com](https://jshint.com)
 
 ---
 ### maybe interesting
