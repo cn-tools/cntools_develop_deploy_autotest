@@ -54,3 +54,7 @@ https://www.sitepoint.com/inspecting-php-code-quality-scrutinizer/
 ### travis icons
 
 [![Build Status](https://travis-ci.org/cn-tools/cntools_develop_deploy_autotest.svg?branch=master)](https://travis-ci.org/cn-tools/cntools_develop_deploy_autotest)
+
+### CircleCI icons
+
+[![CircleCI](https://circleci.com/gh/cn-tools/cntools_develop_deploy_autotest/tree/master.svg?style=svg)](https://circleci.com/gh/cn-tools/cntools_develop_deploy_autotest/tree/master)
